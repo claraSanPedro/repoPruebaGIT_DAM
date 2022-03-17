@@ -5,6 +5,7 @@ public class Ejemplo1 {
 		// TODO Auto-generated method stub
 System.out.println("Holaaa");
 System.out.println("Segunda línea");
+System.out.println("Tercera línea");
 	}
 
 }
